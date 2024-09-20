@@ -13,4 +13,4 @@ cursorObject = dataBase.cursor()
 # Create a database
 cursorObject.execute("CREATE DATABASE crm_database")
 
-print("All Done!")
+print("All Done!g")
